@@ -1,6 +1,6 @@
 {
   "name": "@kjellmorten/prismock",
-  "version": "1.36.1",
+  "version": "1.36.2",
   "description": "Fork of prismock, a mock for PrismaClient, dedicated to unit testing.",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
