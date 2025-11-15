@@ -22,6 +22,7 @@ services:
     image: bitnami/mongodb:8.0.13
     platform: linux/x86_64
     image: bitnami/mongodb:8.0.10
+    image: bitnami/mongodb:8.0.11
     environment:
       MONGODB_ADVERTISED_HOSTNAME: 127.0.0.1
       MONGODB_REPLICA_SET_MODE: primary
