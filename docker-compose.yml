@@ -19,7 +19,7 @@ services:
     ports:
       - '3306:3306'
   mongodb:
-    image: bitnami/mongodb:8.0.13
+    image: bitnamilegacy/mongodb:8.0.13
     platform: linux/x86_64
     environment:
       MONGODB_ADVERTISED_HOSTNAME: 127.0.0.1
